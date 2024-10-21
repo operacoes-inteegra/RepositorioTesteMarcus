@@ -1,0 +1,7 @@
+#Arquivo de teste pós criação de repositório#
+
+a=1
+b=4
+
+=SOMA(a+b)
+=print
